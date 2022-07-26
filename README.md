@@ -17,9 +17,9 @@
 
 #### 效果图
 
-![图片](https://gitee.com/yang1015/contract-master/raw/master/screenshoot/1.png)
-![图片](https://gitee.com/yang1015/contract-master/raw/master/screenshoot/2.png)
-![图片](https://gitee.com/yang1015/contract-master/raw/master/screenshoot/3.png)
+![图片](https://github.com/yangsphp/contract-master/blob/main/screenshoot/1.png)
+![图片](https://github.com/yangsphp/contract-master/blob/main/screenshoot/2.png)
+![图片](https://github.com/yangsphp/contract-master/blob/main/screenshoot/3.png)
 
 #### 更新说明
 
